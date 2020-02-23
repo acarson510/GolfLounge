@@ -64,6 +64,7 @@ public class Golfer {
 		
 		ArrayList<Float> result = new ArrayList<Float>();
 		
+		//need to add comment for calculation
 		for (int i = 0; i < scores.size(); i++) {
 			float calculated = 
 			    (
